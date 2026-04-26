@@ -1,4 +1,4 @@
-# Hi World 👋 I'm Himz
+![Himz](img/github-header-banner.png)
 
 <!--
 **mahdaribrahim/mahdaribrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
