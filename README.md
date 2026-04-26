@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 📍 Based in [**Indonesia**](https://id.wikipedia.org/wiki/Indonesia)
-- 🔭 Currently learning [**Web Development**](https://en.wikipedia.org/wiki/Web_development)
+- 🔭 Currently learning [**Web Development**]
+(https://en.wikipedia.org/wiki/Web_development)
 ![https://www.instagram.com/mhdribrahim/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://www.facebook.com/himz.page](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
