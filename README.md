@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi World 👋 I'm Himz
 
 <!--
 **mahdaribrahim/mahdaribrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📍 Based in [**Indonesia**](https://id.wikipedia.org/wiki/Indonesia)
+- 🔭 Currently learning [**Web Development**](https://en.wikipedia.org/wiki/Web_development)
+  ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHVyeG5za3VhczRyZWQweHZrbmIxOHp0Nnhqd3Y2OGNhMDdodDBvbyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/f7k6TfAFkiAqKVcJGH/giphy.gif)
